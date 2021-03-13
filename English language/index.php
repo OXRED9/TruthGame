@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php session_start(); ?>
-<html lang="ar">
+<html lang="en">
 
 <head>
    <title>Back To Work</title>
